@@ -10,4 +10,3 @@ This is a small project, but it will play a bigger part in another big project l
 - We are also handling the scroll disruption by adding the `.scrollY` value to the top and the `.scrollX` value to the left and giving them to the span element.
 
   👉 [See how this fits into the big project](https://github.com/SabinGhimireNP/PopOutNav)
-
