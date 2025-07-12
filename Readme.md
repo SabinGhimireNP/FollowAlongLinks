@@ -8,3 +8,5 @@ This is a small project, but it will play a bigger part in another big project l
 - A function is triggered on mouseenter.
 - We get the dimensions of the element (this) with the help of `this.getBoundingClientRect()`. It gives the height, width, top, left, right, and so on of this element.
 - We are also handling the scroll disruption by adding the `.scrollY` value to the top and the `.scrollX` value to the left and giving them to the span element.
+
+  👉 [See how this fits into the big project](https://github.com/SabinGhimireNP/PopOutNav)
